@@ -3,6 +3,8 @@
 
 <img src="https://gd4.alicdn.com/imgextra/i1/361529775/O1CN010iayjp2M509FN5tc1_!!361529775.jpg" width="512">
 
+<img src="https://i.ibb.co/PjXmvT8/We-Chat-Image-20200704164511.jpg" width="512">
+
 淘宝链接(Taobao Link) https://item.taobao.com/item.htm?id=621625126003
 
 产品支持论坛(Support forum): https://bbs.wenyucx.com
