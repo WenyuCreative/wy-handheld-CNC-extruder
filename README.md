@@ -1,5 +1,8 @@
 # wy-handheld-CNC-extruder
-文宇创新手持数控挤出机 点锡浆 点助焊剂神器; WY Handheld CNC extruder
+
+WY Handheld CNC Solder Paste / Flux Extruder
+
+文宇创新 手持微电脑数控数显挤出机 点锡浆 点助焊剂神器
 
 <img src="https://gd4.alicdn.com/imgextra/i1/361529775/O1CN010iayjp2M509FN5tc1_!!361529775.jpg" width="512">
 
